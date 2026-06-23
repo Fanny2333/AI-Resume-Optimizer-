@@ -158,7 +158,7 @@ resume-optimizer/
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/your-username/resume-optimizer.git
+git clone https://github.com/Fanny2333/AI-Resume-Optimizer.git
 cd resume-optimizer
 
 # 2. 创建虚拟环境（推荐）
